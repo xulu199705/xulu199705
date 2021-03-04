@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 I'm Leon.
 
+![今日诗词](https://v2.jinrishici.com/one.svg)
+
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝“UNIX is simple.  It just takes a genius to understand its simplicity.”— Dennis Ritchie   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
