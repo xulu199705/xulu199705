@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 
 I'm Leon.
 
-<span id="jinrishici-sentence">正在加载今日诗词....</span>
-<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
-
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝“UNIX is simple.  It just takes a genius to understand its simplicity.”— Dennis Ritchie   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
