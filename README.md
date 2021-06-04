@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 I'm Leon.
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝There are over 1.5 billion instant messaging id’s in the world over.❞</i>
+<i>❝“Good specifications will always improve programmer productivity far better than any programming tool or technique.”— Milt Bryce   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
