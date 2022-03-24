@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Leon.
+Here is Leon's repo.
 
-<!--STARTS_HERE_QUOTE_README-->
-<i>❝“If you have a procedure with ten parameters, you probably missed some.”— Alan Perlis  ❞</i>
-<!--ENDS_HERE_QUOTE_README-->
+Currently learning: SDM
